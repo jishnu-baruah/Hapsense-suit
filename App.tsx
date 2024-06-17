@@ -1,3 +1,5 @@
+//appSetup
+
 import React, { useState, useEffect } from 'react';
 import { View, TextInput, Button, ActivityIndicator, TouchableOpacity, ImageBackground, StyleSheet, Text } from 'react-native';
 import ReactNativeHapticFeedback from "react-native-haptic-feedback";
